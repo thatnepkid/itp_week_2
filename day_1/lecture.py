@@ -8,6 +8,8 @@
 
 # - List:       ordered and changeable.     Allows duplicate members.
 # - Dictionary: ordered* and changeable.    No duplicate members.
+# - Tuples: covered later this week
+# - Sets: covered later this week
 
 # LIST
 
