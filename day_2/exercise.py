@@ -8,7 +8,7 @@
 #     - A function that adds four integers
 
 # Medium: 
-#     - Create a calculator function using THREE input parameters (two float, one string) to all the user to add, substract, multiply and divide.
+#     - Create a calculator function using THREE input parameters (two float, one string[hint: it will be a math symbol]) to allow the user to add, substract, multiply and divide.
 
 # Hard: 
 #     - You're at a restaurant with some friends and the server didn't split up the check.  Create a function that takes a bill amount, multiplies it by a global variable called tax_rate, adds the tax, and then divides the total bill by the number of people input by the user.  BONUS:  Include an option for adding tip through either a percentage amount assigned to a global varible, or through a specific amount input by the user.
