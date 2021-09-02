@@ -73,20 +73,3 @@ print(myNumber)
 
 #This is the RELATIVE path to this file on my computer:
 #  day_3/lecture.py
-
-#Use the "import" keyword to bring outside functions/programs into the file you are currently working on.  For example, to add additional math functionality to your file, import the "math" module.
-
-import math
-
-#Now you can use math functions that were not previously available, like:
-
-num1 = math.sqrt(16)
-print("num1 is ", num1)
-
-num2 = math.pi
-print("num2 is ", num2)
-
-#Random additonal facts:
-# The sys.exit() function will immediately quit your program.
-
-# The Pyperclip third-party module has copy() and paste() functions for reading and writing text to the clipboard().
