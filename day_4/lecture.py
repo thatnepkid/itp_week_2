@@ -41,7 +41,6 @@ print(myImmediateFamily)
 
 #--------------IMPORTING MODULES---------
 #Use the "import" keyword to bring outside functions/programs into the file you are currently working on.  For example, to add additional math functionality to your file, import the "math" module.
-
 import math
 
 #Now you can use math functions that were not previously available, like:
@@ -51,6 +50,9 @@ print("num1 is ", num1)
 
 num2 = math.pi
 print("num2 is ", num2)
+
+tip = math.sinh(num2)
+print(tip)
 
 #-----------GIT & GITHUB-------------
 
